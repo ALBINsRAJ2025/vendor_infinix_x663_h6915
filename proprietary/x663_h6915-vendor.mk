@@ -2155,7 +2155,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x663_h6915/proprietary/vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so:vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
     vendor/infinix/x663_h6915/proprietary/vendor/odm_dlkm/etc/build.prop:vendor/odm_dlkm/etc/build.prop \
     vendor/infinix/x663_h6915/proprietary/vendor/odm_dlkm/etc/NOTICE.xml.gz:vendor/odm_dlkm/etc/NOTICE.xml.gz \
-    vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/build.prop:vendor/odm/etc/build.prop \
     vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/NOTICE.xml.gz:vendor/odm/etc/NOTICE.xml.gz \
     vendor/infinix/x663_h6915/proprietary/vendor/res/images/lcd_test_00.png:vendor/res/images/lcd_test_00.png \
     vendor/infinix/x663_h6915/proprietary/vendor/res/images/lcd_test_01.png:vendor/res/images/lcd_test_01.png \

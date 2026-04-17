@@ -2179,7 +2179,6 @@ vendor/lib/vendor.mediatek.hardware.rcs@2.0.so
 vendor/lib/vendor.mediatek.hardware.videotelephony@1.0.so
 vendor/odm_dlkm/etc/build.prop
 vendor/odm_dlkm/etc/NOTICE.xml.gz
-vendor/odm/etc/build.prop
 vendor/odm/etc/NOTICE.xml.gz
 vendor/odm/etc/vintf/manifest_dsds.xml
 vendor/odm/etc/vintf/manifest_qsqs.xml
