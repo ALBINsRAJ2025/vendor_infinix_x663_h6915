@@ -864,32 +864,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/usb_audio_policy_configuration.xml:vendor/etc/usb_audio_policy_configuration.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/vendor-apns-conf.xml:vendor/etc/vendor-apns-conf.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/VideoLog_dynamic.xml:vendor/etc/VideoLog_dynamic.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/compatibility_matrix.xml:vendor/etc/vintf/compatibility_matrix.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml:vendor/etc/vintf/manifest/android.hardware.biometrics.fingerprint@2.1-service.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.boot@1.2.xml:vendor/etc/vintf/manifest/android.hardware.boot@1.2.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.cas@1.2-service-lazy.xml:vendor/etc/vintf/manifest/android.hardware.cas@1.2-service-lazy.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.health@2.1.xml:vendor/etc/vintf/manifest/android.hardware.health@2.1.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml:vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-mtk-gpu.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.usb@1.2-service-mediatekv2.xml:vendor/etc/vintf/manifest/android.hardware.usb@1.2-service-mediatekv2.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml:vendor/etc/vintf/manifest/android.hardware.wifi@1.0-service.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml:vendor/etc/vintf/manifest/android.hardware.wifi.hostapd.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/android.hardware.wifi.supplicant.xml:vendor/etc/vintf/manifest/android.hardware.wifi.supplicant.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/gnss@2.1-service.xml:vendor/etc/vintf/manifest/gnss@2.1-service.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/gnss-default.xml:vendor/etc/vintf/manifest/gnss-default.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/lbs_hidl_service@1.0.xml:vendor/etc/vintf/manifest/lbs_hidl_service@1.0.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/lights-mtk-default.xml:vendor/etc/vintf/manifest/lights-mtk-default.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.clearkey.xml:vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.clearkey.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.widevine.xml:vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.4-service.widevine.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_hwcomposer.xml:vendor/etc/vintf/manifest/manifest_hwcomposer.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_media_c2_V1_1_default.xml:vendor/etc/vintf/manifest/manifest_media_c2_V1_1_default.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_storage.xml:vendor/etc/vintf/manifest/manifest_storage.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/manifest_tneengine.xml:vendor/etc/vintf/manifest/manifest_tneengine.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/power-default.xml:vendor/etc/vintf/manifest/power-default.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/vendor.mediatek.hardware.paytrigger@1.0-service.xml:vendor/etc/vintf/manifest/vendor.mediatek.hardware.paytrigger@1.0-service.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/vendor.mediatek.hardware.tranHwInfo@1.0.xml:vendor/etc/vintf/manifest/vendor.mediatek.hardware.tranHwInfo@1.0.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/vendor.transsion.hardware.trancam.trancamserver@1.0.xml:vendor/etc/vintf/manifest/vendor.transsion.hardware.trancam.trancamserver@1.0.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest/vibrator-mtk-default.xml:vendor/etc/vintf/manifest/vibrator-mtk-default.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/etc/vintf/manifest.xml:vendor/etc/vintf/manifest.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/virtual-spn-conf-by-efgid1.xml:vendor/etc/virtual-spn-conf-by-efgid1.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/virtual-spn-conf-by-efpnn.xml:vendor/etc/virtual-spn-conf-by-efpnn.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/etc/virtual-spn-conf-by-efspn.xml:vendor/etc/virtual-spn-conf-by-efspn.xml \
@@ -2183,10 +2157,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/x663_h6915/proprietary/vendor/odm_dlkm/etc/NOTICE.xml.gz:vendor/odm_dlkm/etc/NOTICE.xml.gz \
     vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/build.prop:vendor/odm/etc/build.prop \
     vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/NOTICE.xml.gz:vendor/odm/etc/NOTICE.xml.gz \
-    vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/vintf/manifest_dsds.xml:vendor/odm/etc/vintf/manifest_dsds.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/vintf/manifest_qsqs.xml:vendor/odm/etc/vintf/manifest_qsqs.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/vintf/manifest_ss.xml:vendor/odm/etc/vintf/manifest_ss.xml \
-    vendor/infinix/x663_h6915/proprietary/vendor/odm/etc/vintf/manifest_tsts.xml:vendor/odm/etc/vintf/manifest_tsts.xml \
     vendor/infinix/x663_h6915/proprietary/vendor/res/images/lcd_test_00.png:vendor/res/images/lcd_test_00.png \
     vendor/infinix/x663_h6915/proprietary/vendor/res/images/lcd_test_01.png:vendor/res/images/lcd_test_01.png \
     vendor/infinix/x663_h6915/proprietary/vendor/res/images/lcd_test_02.png:vendor/res/images/lcd_test_02.png \
